@@ -3,6 +3,9 @@
 This project marks the beginning of my journey into machine learning. As I graduated university not long ago, I wanted to choose a topic that I could relate to, and not just another house price or stock market predictor.
 By choosing a topic like this, and analysing a dataset conducted from a university in my home country, Malaysia, just makes this project feel even more personal. It allows me to not only apply what I've learnt, but to explore a deeper issue that resonates deeply with my own experiences and peers.
 
+The dataset used in this project is available on Kaggle:
+
+**[University Students' Mental Health](https://www.kaggle.com/datasets/junnn0126/university-students-mental-health/data)**
 # Project Summary
 
 This project explores the mental health status of Malaysian university students and attempts to predict the likelihood of **depression, anxiety,** and **panic attacks** using machine learning models.
